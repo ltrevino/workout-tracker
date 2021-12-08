@@ -2,9 +2,14 @@
 
 ## Description
 
+Keep tracking of your workout and improve your skills and health. You can register your workouts through the application.
+
 ## Usage
 
-1. Clone repository. 
-2. Check in routes/api-routes and comment in block of code if you want the database to be prepopulated with dummy values
-3. npm install
-4. node server.js
+- npm i
+
+- npm start
+
+## Heroku App
+
+https://safe-escarpment-38751.herokuapp.com/
